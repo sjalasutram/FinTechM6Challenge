@@ -18,6 +18,9 @@ This challenge submission uses python 3.7.13 with the following packages:
 * [hvplot.pandas] (https://pypi.org/project/hvplot)
 * [pandas] (https://pandas.pydata.org/)
 
+## Instructions
+To run the Rental Analysis Tool, please run the file san_francisco_housing.ipynb in a Jupyter Lab
+
 ## Contributors
 
 [Sreedhar](j_sreedhar@yahoo.com)
